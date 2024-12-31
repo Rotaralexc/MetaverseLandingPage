@@ -2,13 +2,12 @@
 <h2 align="center">Modern NextJs Website With Framer Motion & Tailwind CSS</h2>
 <div align="center">
   <br />
-  <img src="" alt="Project Banner">
-  <br />
-
-  
+  <img src="https://github.com/Rotaralexc/MetaverseLandingPage/blob/c323df020b22e75c35523b0897b846ff5d59ec33/metavers-img.png" alt="Project Banner">
+  <br />  
 
 <h2 align="center">DEMO</h2>
  <br />
+ 
 
 </div>
 
